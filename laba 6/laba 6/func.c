@@ -187,7 +187,7 @@ int scan(int a, int b) {
 
 
 void matrixLength(int* rows, int* columns) {
-	printf("Choose amount of rows(1 - 100) - ");
+	printf("\nChoose amount of rows(1 - 100) - ");
 	*rows = scan(1, 100);
 	printf("Choose length of columns(1 - 100) - ");
 	*columns = scan(1, 100);
