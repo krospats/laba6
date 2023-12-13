@@ -1,0 +1,11 @@
+﻿  func.c
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\laba 6\laba 6\laba 6\func.c(10,20): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\laba 6\laba 6\laba 6\func.c(137,22): warning C4305: функция: усечение из "__int64" в "int"
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\laba 6\laba 6\laba 6\func.c(149,22): warning C4305: функция: усечение из "__int64" в "int"
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\laba 6\laba 6\laba 6\func.c(119,6): warning C4101: continueFlag: неиспользованная локальная переменная
+  laba.c
+C:\Users\stoli\OneDrive\Рабочий стол\лабы\laba 6\laba 6\laba 6\func.c(199,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  task1.c
+  task2.c
+  Создание кода...
+  laba 6.vcxproj -> C:\Users\stoli\OneDrive\Рабочий стол\лабы\laba 6\laba 6\x64\Debug\laba 6.exe
